@@ -1,0 +1,33 @@
+h1 {
+    font-family:arial;
+}
+
+p {
+    font-family: arial;
+}
+
+ol {
+    font-family: arial;
+}
+
+form {
+    display: inline-block;
+}
+
+#button {
+    display: inline-block;
+    height:20px;
+  width:70px;
+	background-color:#80FF00;
+	font-family:arial;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 5px;
+	text-align:center;
+	margin-top:2px;
+}
+
+.list {
+	font-family:arial;
+	color:#80FF00;
+}
